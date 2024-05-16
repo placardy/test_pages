@@ -1,0 +1,28 @@
+.menu{
+    border: 3px solid;
+}
+h1, p{
+    margin: 10px;
+}
+.container{
+    display: flex;
+    flex-direction:row;
+
+}
+img{
+width:700px;
+}
+h2{
+    font-size:60px;
+    margin: 10px;
+}
+h1{
+    font-size:50px;
+}
+a{
+    margin-left: 50px;
+    font-size:20px;
+}
+p{
+    font-size:20px;
+}
